@@ -1,0 +1,1 @@
+D:\Programing\1. Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\6. Streams-and-Files\6. StreamsAndFiles-Homework\11. CouplesFrequency\bin\Debug\_11.CouplesFrequency.exe.config

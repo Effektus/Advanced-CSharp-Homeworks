@@ -1,0 +1,5 @@
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\7. SorteSubsetSums\bin\Debug\_7.SorteSubsetSums.exe.config
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\7. SorteSubsetSums\bin\Debug\_7.SorteSubsetSums.exe
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\7. SorteSubsetSums\bin\Debug\_7.SorteSubsetSums.pdb
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\7. SorteSubsetSums\obj\Debug\_7.SorteSubsetSums.exe
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\7. SorteSubsetSums\obj\Debug\_7.SorteSubsetSums.pdb

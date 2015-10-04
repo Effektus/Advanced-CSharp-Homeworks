@@ -1,0 +1,1 @@
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\2. SelectionSort\bin\Debug\_2.SelectionSort.exe.config

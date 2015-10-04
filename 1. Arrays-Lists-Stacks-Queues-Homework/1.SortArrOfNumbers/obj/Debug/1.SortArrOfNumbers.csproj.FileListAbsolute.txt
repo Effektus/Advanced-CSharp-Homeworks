@@ -1,0 +1,6 @@
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\1.SortArrOfNumbers\bin\Debug\1.SortArrOfNumbers.exe.config
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\1.SortArrOfNumbers\bin\Debug\1.SortArrOfNumbers.exe
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\1.SortArrOfNumbers\bin\Debug\1.SortArrOfNumbers.pdb
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\1.SortArrOfNumbers\obj\Debug\1.SortArrOfNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\1.SortArrOfNumbers\obj\Debug\1.SortArrOfNumbers.exe
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\1.SortArrOfNumbers\obj\Debug\1.SortArrOfNumbers.pdb

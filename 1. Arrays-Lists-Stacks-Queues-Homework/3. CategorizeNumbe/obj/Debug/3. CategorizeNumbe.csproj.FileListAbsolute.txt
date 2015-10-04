@@ -1,0 +1,5 @@
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\3. CategorizeNumbe\bin\Debug\_3.CategorizeNumbe.exe.config
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\3. CategorizeNumbe\bin\Debug\_3.CategorizeNumbe.exe
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\3. CategorizeNumbe\bin\Debug\_3.CategorizeNumbe.pdb
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\3. CategorizeNumbe\obj\Debug\_3.CategorizeNumbe.exe
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\3. CategorizeNumbe\obj\Debug\_3.CategorizeNumbe.pdb

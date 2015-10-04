@@ -1,0 +1,6 @@
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\5. LongIncrSequ\bin\Debug\_5.LongIncrSequ.exe.config
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\5. LongIncrSequ\bin\Debug\_5.LongIncrSequ.exe
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\5. LongIncrSequ\bin\Debug\_5.LongIncrSequ.pdb
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\5. LongIncrSequ\obj\Debug\5. LongIncrSequ.csprojResolveAssemblyReference.cache
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\5. LongIncrSequ\obj\Debug\_5.LongIncrSequ.exe
+D:\Documents\Programirame\Fundamental Level - Sep 2015\Advanced-CSharp - Sep 2015\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Homework\5. LongIncrSequ\obj\Debug\_5.LongIncrSequ.pdb
